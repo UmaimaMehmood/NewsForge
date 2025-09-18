@@ -43,5 +43,6 @@ while True:
 
     user_input = input("\nDo you want another headline? (yes/no): ").strip().lower()
     if user_input == "no":
-        print("\nThanks for using the Fake News Headline Generator. Have a fun day!")
+        print("\nThanks for using the NewsForge. Have a fun day!")
         break
+
